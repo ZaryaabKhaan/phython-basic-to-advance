@@ -23,3 +23,17 @@ indentation
 how to check python version
 
 variables
+
+comments
+
+numbers
+
+get input from user
+
+strings deep dive
+
+data types
+
+conversion data types
+
+random number
