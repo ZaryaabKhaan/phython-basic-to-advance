@@ -1,9 +1,3 @@
-# this is heading
-## this is sub heading
-### this is sub sub heading
-
-
-
 ```python
 print("Hello")
 ```
