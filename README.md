@@ -31,3 +31,12 @@ data types
 conversion data types
 
 random number
+
+for loop string
+
+slicing string
+
+Modify string
+
+Opertors
+
