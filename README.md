@@ -40,3 +40,16 @@ Modify string
 
 Opertors
 
+List
+
+List_silicing 
+
+List item chnage 
+
+List comprehension 
+
+List comperhension range 
+
+
+
+
